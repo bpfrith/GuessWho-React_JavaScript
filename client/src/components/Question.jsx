@@ -1,5 +1,5 @@
 import React from 'react'
-import GuessWhoCharacterShuffle from './GuessWhoCharacterShuffle'
+import GuessWhoCharacterShuffle from './GuessWhoCharacterShuffle.jsx'
 
 class Question extends React.Component{
   answerQuestion(){

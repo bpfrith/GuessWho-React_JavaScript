@@ -1,5 +1,5 @@
-import React from 'react';
-  import GuessWhoCharacter from './GuessWhoCharacter';
+import React from 'react'
+  import GuessWhoCharacter from './GuessWhoCharacter.jsx'
 
 
   class GuessWhoCharacterShuffle extends React.Component{
@@ -27,4 +27,4 @@ import React from 'react';
     }
   }
   // {<GuessWhoCharacter guessWhoCharacter={this.getRandomCharacter()} guessWho={this.getRandomCharacter().name}/>}
-export default GuessWhoCharacterShuffle;
+export default GuessWhoCharacterShuffle

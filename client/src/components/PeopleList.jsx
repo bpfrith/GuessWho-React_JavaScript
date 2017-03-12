@@ -1,5 +1,5 @@
 import React from 'react'
-import Characters from './characters.jsx'
+import Characters from './Characters.jsx'
 
 class PeopleList extends React.Component{
   render(){
@@ -11,7 +11,7 @@ class PeopleList extends React.Component{
     })
 
     return(
-      <div className = "picsDiv"
+      <div className = "picsDiv">
         {char}
       </div>
     )
