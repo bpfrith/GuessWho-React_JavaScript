@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from'react-dom';
-import GameContainer from './Containers/GameContainer';
+import GameContainer from './src/containers/GameContainer.jsx';
 
 
 window.onload = () => {
